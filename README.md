@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @v0z3
-- 👀 I’m interested in: Python
-- 🌱 I’m currently learning: Lua
-- ⚡ Fun fact: Я живу неподалік міста, де йде війна.
+.
